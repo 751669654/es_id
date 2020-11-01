@@ -16,4 +16,6 @@ public class Content {
     private String title;
     private String img;
     private String price;
+    private String num;
+
 }
