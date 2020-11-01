@@ -17,5 +17,9 @@ public class Content {
     private String img;
     private String price;
     private String num;
+    private String sex;
+    private String age;
+    private String name;
+    private String rdd;
 
 }
